@@ -1,0 +1,14 @@
+Daniel Hodgson
+Assignment 1
+djh96
+https://github.com/djh96/Bookstore
+Ben Pratt
+Tuesday 10:00-11:50 AM
+01/28/2015
+Yes
+Yes the program compiles without error, assuming the user enters the right data type when prompted.
+Bonus:
+•	Bookworm Card
+•	Personalized Book
+•	Inventory saved to a file
+
